@@ -49,9 +49,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 London Borough of Southwark (March 2018 - December 2019)  
 Class Teacher
+- Final non-technical role before studying at Makers.
+- Great exposure of working with a large number of stakeholders with many different perspectives, approaches and attitudes. 
+- Saw the education market from the inside.  Teachers use an increasing amount of technology, but remain in need of creative, dynamic and original innovations to relieve extreme workload pressures.  
+
 Culloden Primary Academy (October 2016 to March 2018)   
 Class Teacher
+- As above.  
+
 Madrid Catholic Schools (January 2011 - June 2016  
 Auxiliar de Conversación
+- Great exposure to a different working culture and community.
+- Built up a committed client-base of customers for my private tutoring business
+
 St Mungo's & London Cyrenians Community Housing Associations (September 2008 - January 2011)   
 Support Worker 
+- Fantastic insight into the charity sector.
+- Worked closely and directly with adults with severe and enduring mental health conditions.  
