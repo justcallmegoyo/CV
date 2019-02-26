@@ -1,6 +1,6 @@
 ## Greg Paul 
 
-My life used to consist of trying to learn every possible inane expression in Spanish so that one day, one person might actually think I'm a native Spaniard, rather than a try-hard Mancunian.  My life is now different in that I now also am doing the same with coding.  
+My life used to consist of trying to learn every possible inane expression in Spanish so that one day, one person might actually think I'm a native Spaniard, rather than a try-hard Mancunian.  My life is different now because these days I'm doing the same with coding as well.   
 
 ## Skills
 
