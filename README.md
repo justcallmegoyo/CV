@@ -6,7 +6,6 @@ My life used to consist of trying to learn every possible inane expression in Sp
 
 #### Communication & Language
 
-What first attracted me to coding was the idea of having mastered the language of the humans, then maybe this time I should dedicate myself to the language of the machines.  As you may well be doing with me at this very moment,  I instantly assess the competence of an organisation based on the language it uses to express itself and explain its mission.  I know that the pace of technical change is astounding and wish never to personally decline into obsolesence.  
 
 #### Another Skill
 
