@@ -27,6 +27,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Projects
+| Project                                                                                                                        | When                                                                                          | Technologies used                                          | Live                                          
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| [digitalaffect](https://github.com/AAMani5/digitalaffects) | Week 11-12  | Python with Flask Framework; Front End: HTML/CSS, Javascript; Tested with Pytest| [link](https://digitalaffect.herokuapp.com/) |
+| [InstAsh](https://github.com/AAMani5/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: Postgresql; Front End: HTML/CSS, Javascript; Tested with Rspec & Capybara| n/a |
+| [Bowling](https://github.com/AAMani5/bowling-challenge) | Week 5 | Framework: Sinatra; Front End: Javascript, jQuery, HTML/CSS; Tested with Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
+| [Chitter](https://github.com/AAMani5/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper ;Front End: HTML/CSS; Tested with RSpec, Capybara Encryption: Bcrypt; Deployed to Heroku. | [link](https://chitter-ash.herokuapp.com) |
+| [RockPaperScissors](https://github.com/AAMani5/rps-challenge) | Week 3 | Framework: Sinatra; Programming Language: Ruby; Front End: HTML&CSS;Tested with RSpec, Capybara| n/a |
+
 ## Education
 
 #### Makers Academy (February 2019 - May 2019) 
