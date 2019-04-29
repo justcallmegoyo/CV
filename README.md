@@ -23,11 +23,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (February 2019 - May 2019) 
 
-- Curious and passionate about code
-- Fast, independent learner
+- Dedicated to continuous and long-term learning
+- Fast and independent learner
 - Great collaborator
-
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
