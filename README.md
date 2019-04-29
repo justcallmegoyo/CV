@@ -13,6 +13,11 @@
 - While at Makers, I have organised self-led activities such as shared viewings of technical videos, self-led retrospectives, whole-team lunch outings etc.  
 
 
+#### Independence & self-sufficiency
+- As a private language tutor, I effectively ran a small business, maintaining positive relationships with clients, dealing with financial transactions/negotiations, completing work to the highest standard to build positive word-of-mouth referrals.  
+- Using technical skills learned at Makers, I can independently debug code by identifying the specific location of the breakdown and gaining visibility of the problem.
+- On the Makers Acebook challenge, my pair partner and I were able to work together to rectify several technical issues/difficulties without having to request assistance from our teammates/coaches.  
+
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
