@@ -30,7 +30,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Projects
 | Project                                                                                                                        | When                                                                                          | Technologies used                                          | Live                                          
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| [digitalaffect](https://github.com/justcallmegoyo) | Week 11-12  | Python with Flask Framework; Front End: HTML/CSS, Javascript; Tested with Pytest| [link](https://herokuapp.com/) |
+| [INSERT FINAL PROJECT](https://github.com/justcallmegoyo) | Week 11-12  | INSERT TECHNOLOGOIES| [link](https://herokuapp.com/) |
 | [Acebook](https://github.com/justcallmegoyo) | Weeks 9-10  | Framework: Ruby on Rails, Database: Postgresql; Front End: HTML/CSS; Tested with Rspec & Capybara| n/a |
 | [Bowling](https://github.com/justcallmegoyo) | Week 5 | Framework: Sinatra; Front End: Javascript, jQuery, HTML/CSS; Tested with Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
 
