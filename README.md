@@ -3,8 +3,8 @@
 ## Skills
 
 #### Communication 
-- Working as a primary school teacher, not only did I have to explain concepts clearly to children, but I also had to communicate effectively with Teaching Assistants, parents, senior leadership, OFSTED, social workers and many others.  
-- I have further developed these communication skills when working on technical projects at Makers, most specifically giving and receiving feedback and questioning.  
+- Working as a primary school teacher, I had to communicate effectively with pupils, Teaching Assistants, parents, senior leadership, OFSTED, social workers and many others.  
+- I have further developed these communication skills when working on technical projects at Makers, most specifically giving/receiving feedback and technical questioning.  
 - After living in Spain for four years, I gained a Certificate of Spanish Proficiency from the Instituto Cervantes and can communicate fluently in verbal and written Spanish, both formally and informally.  
 
 #### People & Organisation skills 
