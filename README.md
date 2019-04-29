@@ -18,19 +18,10 @@
 - Using technical skills learned at Makers, I can independently debug code by identifying the specific location of the breakdown and gaining visibility of the problem.
 - On the Makers Acebook challenge, my pair partner and I were able to work together to rectify several technical issues/difficulties without having to request assistance from our teammates/coaches.  
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Projects
 | Project                                                                                                                        | When                                                                                          | Technologies used                                          | Live                                          
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| [INSERT FINAL PROJECT](https://github.com/justcallmegoyo) | Week 11-12  | INSERT TECHNOLOGOIES| [link](https://herokuapp.com/) |
+| [INSERT FINAL PROJECT](https://github.com/justcallmegoyo) | Week 11-12  | INSERT TECHNOLOGIES| [link](https://herokuapp.com/) |
 | [Acebook](https://github.com/justcallmegoyo) | Weeks 9-10  | Framework: Ruby on Rails, Database: Postgresql; Front End: HTML/CSS; Tested with Rspec & Capybara| n/a |
 | [Bowling](https://github.com/justcallmegoyo) | Week 5 | Framework: Sinatra; Front End: Javascript, jQuery, HTML/CSS; Tested with Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
 
