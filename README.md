@@ -53,6 +53,7 @@
 ## Experience
 
 **London Borough of Southwark** *(March 2018 - December 2018)*
+
 **Culloden Primary Academy** *(October 2016 to March 2018)*   
 *Class Teacher*
 - Final non-technical role before studying at Makers.
