@@ -4,8 +4,8 @@
 
 #### Communication 
 - Working as a primary school teacher, not only did I have to explain concepts clearly to children, but I also had to communicate effectively with Teaching Assistants, parents, senior leadership, OFSTED, social workers and many others.  
-- I have further developed these communication skills when working on technical projects at Makers, specifically my feedback skills.  
-- After living for four years in Spain, I have a Certificate of Spanish Proficiency from the Instituto Cervantes and can communicate fluently in verbal and written Spanish.  
+- I have further developed these communication skills when working on technical projects at Makers, most specifically giving and receiving feedback and questioning.  
+- After living in Spain for four years, I gained a Certificate of Spanish Proficiency from the Instituto Cervantes and can communicate fluently in verbal and written Spanish, both formally and informally.  
 
 #### People & Organisation skills 
 - As a teacher and as a developer, I can effectively de-escalate personal disagreements and resolve conflicts effectively.
@@ -14,7 +14,7 @@
 
 
 #### Independence & self-sufficiency
-- As a private language tutor, I effectively ran a small business, maintaining positive relationships with clients, dealing with financial transactions/negotiations, completing work to the highest standard to build positive word-of-mouth referrals.  
+- As a private language tutor, I effectively ran a small business, maintaining positive relationships with clients, dealing with financial transactions/negotiations in addition to consistently carrying out work to the highest standard which in turn led to many word-of-mouth referrals.  
 - Using technical skills learned at Makers, I can independently debug code by identifying the specific location of the breakdown and gaining visibility of the problem.
 - On the Makers Acebook challenge, my pair partner and I were able to work together to rectify several technical issues/difficulties without having to request assistance from our teammates/coaches.  
 
