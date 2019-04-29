@@ -39,8 +39,7 @@
 #### University of Manchester (September 2016 - July 2017)
 
 - Postgraduate Certificate in Education 
-- Primary Specialist
-- 2:1 equivalent grade in both teaching practice and theory of education
+- 2:1 
 
 #### Leeds Metropolitan University (September 2005 - July 2008)
 
@@ -54,14 +53,11 @@
 ## Experience
 
 **London Borough of Southwark** *(March 2018 - December 2018)*
+**Culloden Primary Academy** *(October 2016 to March 2018)*   
 *Class Teacher*
 - Final non-technical role before studying at Makers.
 - Great exposure of working with a large number of stakeholders with many different perspectives, approaches and attitudes. 
 - Saw the education market from the inside.  Teachers use an increasing amount of technology, but remain in need of creative, dynamic and original innovations to relieve extreme workload pressures.  
-
-**Culloden Primary Academy** *(October 2016 to March 2018)*   
-*Class Teacher*
-- As above.  
 
 **Madrid Catholic Schools** *(January 2011 - June 2016)*
 *Auxiliar de Conversación*
