@@ -2,12 +2,15 @@
 
 ## Skills
 
-#### Communication & Language
-
+#### Communication 
 - Working as a primary school teacher, not only did I have to explain concepts clearly to children, but I also had to communicate effectively with Teaching Assistants, parents, senior leadership, OFSTED, social workers and many others.  
 - I have further developed these communication skills when working on technical projects at Makers, specifically my feedback skills.  
 - After living for four years in Spain, I have a Certificate of Spanish Proficiency from the Instituto Cervantes and can communicate fluently in verbal and written Spanish.  
- 
+
+#### People & Organisation skills 
+- As a teacher and as a developer, I can effectively de-escalate personal disagreements and resolve conflicts effectively.
+- I am an advocate for equality and have the confidence to approach difficult subjects when they arise.  
+- While at Makers, I have organised self-led activities such as shared viewings of technical videos, self-led retrospectives, whole-team lunch outings etc.  
 
 
 #### Another Skill
@@ -25,7 +28,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Dedicated to continuous and long-term learning
 - Fast and independent learner
-- Great collaborator
 - OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
