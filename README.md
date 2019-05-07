@@ -14,7 +14,7 @@
 
 
 #### Independence & self-sufficiency
-- As a private language tutor, I effectively ran a small business, maintaining positive relationships with clients, dealing with financial transactions/negotiations in addition to consistently carrying out work to the highest standard which in turn led to many word-of-mouth referrals.  
+- As a private language tutor, I effectively ran a small business, consistently carrying out work to the highest standard, thereby generating many word-of-mouth referrals and positive relationships with customers.  
 - Using technical skills learned at Makers, I can independently debug code by identifying the specific location of the breakdown and gaining visibility of the problem.
 - On the Makers Acebook challenge, my pair partner and I were able to work together to rectify several technical issues/difficulties without having to request assistance from our teammates/coaches.  
 
@@ -29,12 +29,12 @@
 
 #### Makers Academy (February 2019 - May 2019) 
 
-- Dedicated to continuous and long-term learning
-- Fast and independent learner
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Dedicated to long-term learning
+- Experienced primarily in Ruby
+- Committed to Test Driven Development (using Rspec in Ruby)
+- Great feedback on Agile team-working skills
+- Launched 'Acebook' on Ruby on Rails in team project
+- Have used Jasmine to test in Javascript
 
 #### University of Manchester (September 2016 - July 2017)
 
